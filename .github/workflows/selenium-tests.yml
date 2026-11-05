@@ -1,4 +1,3 @@
-name: Selenium Java Tests & Docker Publish
 name: Selenium TestNG CI/CD Pipelin
 # Trigger workflow on push and pull requests to main
 on:
